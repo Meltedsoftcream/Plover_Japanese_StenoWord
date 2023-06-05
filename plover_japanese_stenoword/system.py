@@ -5,8 +5,8 @@ KEYS = (
     'L-', 'M-',
     '*',
     '-N', '-R',
-    '-U', '-A', '-I',
-    '-O', '-E'
+    '-U', '-A', '-O',
+    '-I', '-E'
 )
 
 IMPLICIT_HYPHEN_KEYS = KEYS
